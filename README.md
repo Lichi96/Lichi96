@@ -27,5 +27,12 @@
 <img src="img/home2.png" style="height: 10rem"/>
 <img src="img/formulario.png" style="height: 10rem"/>
 </div>
-<h3 align="center"><a href="https://salvas-mi-huella.vercel.app">Salva mi huella</a></h3>
-<p>Proyecto final en grupo para el bootcamp Soy Henry. Esta aplicación se creo con el objetivo de fomentar la adopción de aquellos animales que se encuentra en situación de tránsito, además de darle mas visibilidad a las fundaciones que se dedican a ello. En este proyecto aprendi a trabajar en equipo, haciendo uso de la metodología SCRUM para la división de tareas. Me enfoque ampliamente al back-end, también me involucre en la implementacíon del login usando Auth0, además de siempre estar a disposición para ayudar a mis compañeros.
+<h3 align="center">Salva mi huella</h3>
+<p>Proyecto final en grupo para el bootcamp Soy Henry. Esta aplicación se creo con el objetivo de fomentar la adopción de aquellos animales que se encuentra en situación de tránsito, además de darle mas visibilidad a las fundaciones que se dedican a ello. En este proyecto aprendi a trabajar en equipo, haciendo uso de la metodología SCRUM para la división de tareas. Me enfoque ampliamente al back-end, también me involucre en la implementacíon del login usando Auth0, además de siempre estar a disposición para ayudar a mis compañeros.</p>
+<span>Web: <a href="https://salvas-mi-huella.vercel.app">salva-mi-huella</a></span>
+<hr>
+<h3>Contactos:</h3>
+<div align="center">
+<a href="lichilanda@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" style="height: 3rem"/></a>
+<a href="https://www.linkedin.com/in/lisandro-landaburu/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" style="height: 3rem" /></a>
+</div>
