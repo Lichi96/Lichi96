@@ -34,5 +34,5 @@
 <h3>Contactos:</h3>
 <div align="center">
 <a href="mailto:lichilanda@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" style="height: 3rem"/></a>
-<a href="https://www.linkedin.com/in/lisandro-landaburu/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" style="height: 3rem" /></a>
+<a href="https://www.linkedin.com/in/lisandro-landaburu/" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" style="height: 3rem" /></a>
 </div>
