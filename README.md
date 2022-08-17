@@ -22,10 +22,10 @@
 <h3 align="center">Videogames APP</h3>
 <p>Aplicación SPA realizada como proyecto individual para el bootcamp Soy Henry. En ella se va a poder ver información acerca de ciertos videojuegos, además de poder filtrar por género, ordenarlos alfabeticamente y por rating, también cuenta con un paginado. Y tiene la posibilidad de poder crear un nuevo videojuego, con un formulario controlado. Creada usando JavaScript, Express, React, Redux, CSS puro, PostgreSQL y Sequelize.</p>
 <div style="display: flex">
-<img src="img/landing.png" style="height: 12rem"/>
-<img src="img/home.png" style="height: 12rem"/>
-<img src="img/home2.png" style="height: 12rem"/>
-<img src="img/formulario.png" style="height: 12rem"/>
+<img src="img/landing.png" style="height: 10rem"/>
+<img src="img/home.png" style="height: 10rem"/>
+<img src="img/home2.png" style="height: 10rem"/>
+<img src="img/formulario.png" style="height: 10rem"/>
 </div>
-<h3 align="center">Salva mi huella</h3>
+<h3 align="center"><a href="https://salvas-mi-huella.vercel.app">Salva mi huella</a></h3>
 <p>Proyecto final en grupo para el bootcamp Soy Henry. Esta aplicación se creo con el objetivo de fomentar la adopción de aquellos animales que se encuentra en situación de tránsito, además de darle mas visibilidad a las fundaciones que se dedican a ello. En este proyecto aprendi a trabajar en equipo, haciendo uso de la metodología SCRUM para la división de tareas. Me enfoque ampliamente al back-end, también me involucre en la implementacíon del login usando Auth0, además de siempre estar a disposición para ayudar a mis compañeros.
