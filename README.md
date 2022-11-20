@@ -29,7 +29,7 @@
 </div>
 <h3 align="center">Salva mi huella</h3>
 <p>Proyecto final en grupo para el bootcamp Soy Henry. Esta aplicación se creo con el objetivo de fomentar la adopción de aquellos animales que se encuentra en situación de tránsito, además de darle mas visibilidad a las fundaciones que se dedican a ello. En este proyecto aprendi a trabajar en equipo, haciendo uso de la metodología SCRUM para la división de tareas. Me enfoque ampliamente al back-end, también me involucre en la implementacíon del login usando Auth0, además de siempre estar a disposición para ayudar a mis compañeros.</p>
-<span>Web: <a href="https://salvas-mi-huella.vercel.app">salva-mi-huella</a></span>
+<span>Web: <a href="https://salva-mi-huella.vercel.app">salva-mi-huella</a></span>
 <hr>
 <h3>Contactos:</h3>
 <div align="center">
